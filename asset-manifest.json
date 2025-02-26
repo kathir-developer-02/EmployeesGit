@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmployeesGit/static/css/main.d1b38133.css",
+    "main.js": "/EmployeesGit/static/js/main.1dc7334e.js",
+    "static/js/488.9c92ff38.chunk.js": "/EmployeesGit/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/EmployeesGit/index.html",
+    "main.d1b38133.css.map": "/EmployeesGit/static/css/main.d1b38133.css.map",
+    "main.1dc7334e.js.map": "/EmployeesGit/static/js/main.1dc7334e.js.map",
+    "488.9c92ff38.chunk.js.map": "/EmployeesGit/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b38133.css",
+    "static/js/main.1dc7334e.js"
+  ]
+}
