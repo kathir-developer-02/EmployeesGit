@@ -1,0 +1,10 @@
+.details-container{
+  width: 400px;
+}
+
+@media screen and (max-width:415px) {
+  .details-container{
+    width: 300px;
+  }
+
+}
